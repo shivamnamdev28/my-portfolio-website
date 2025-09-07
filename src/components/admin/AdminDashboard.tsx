@@ -410,17 +410,3 @@ const AdminDashboard = ({ initialCategories, initialSubcategories }: AdminDashbo
     </div>
   );
 };
-
-export default AdminDashboard;
-```
-eof
-
-### Next Steps:
-1.  **Copy and Paste:** Copy this entire code block and use it to completely replace the content of your `src/components/admin/AdminDashboard.tsx` file.
-2.  **Save:** Save the file after pasting the code.
-3.  **Commit and Push:**
-    ```sh
-    git add .
-    git commit -m "fix: Final AdminDashboard.tsx to fix build"
-    git push origin main
-    
