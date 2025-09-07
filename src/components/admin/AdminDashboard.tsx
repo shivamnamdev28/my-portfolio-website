@@ -410,3 +410,5 @@ const AdminDashboard = ({ initialCategories, initialSubcategories }: AdminDashbo
     </div>
   );
 };
+
+export default AdminDashboard;
